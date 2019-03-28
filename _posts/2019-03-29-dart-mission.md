@@ -32,7 +32,7 @@ The mission will target a binary system called Didymos (Figure 1). In the system
  <figcaption align="center">
   Figure 1B: Didymos actual images
  </figcaption>
-   <img src="/assets/img/DART/didymos_actual.jpg" alt="didymos actual"
+   <img src="/assets/img/DARTdidymos_actual.jpg" alt="didymos actual"
  width="43%"
  align="center"/>
  <figcaption align="center">
