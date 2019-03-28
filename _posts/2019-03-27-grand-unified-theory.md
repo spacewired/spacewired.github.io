@@ -17,4 +17,4 @@ categories:
 - Planetary Science
 ---
 
-This will have some awesome Space content about The Grand Unified Theory, my first post
+I wanted to talk a little bit about the Grand Unified Theory. Recently I finished reading Stephen's Hawkins' "A Brief Histroy of Time" and in it he speaks of the Grand Theory of everything, so I thought it would be fun to write a little bit about it. 
