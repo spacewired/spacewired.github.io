@@ -19,15 +19,6 @@ categories:
 
 The Double Asteroid Redirection Task (DART) is going to sound like a really "out of this world" sci-fi movie, but trust me it is actually happening!
 
-<figure>
- <img src="/assets/img/DART/apl.jpg" alt="APL lgo" 
- width="10%"
- align="center"/>
-  <img src="/assets/img/DART/nasa.jpg" alt="NASA logo"
- width="10%"
- align="center"/>
-</figure>
-
 As I type this article a team of engineers and scientists work out of the JHU Applied Physics Laboratory in the first mission funded out of NASA's Planetary Defense Coordination Office. 
 
 DART's objective is scheduled to be the first mission to test the capacity of using kinetic impact to veer an asteroid off of its current trayectory in the hopes that in the case the Earth was ever threatened by an asteroid we had data to help us make the best decision about the best way to save the world. 
@@ -36,13 +27,13 @@ The mission will target a binary system called Didymos (Figure 1). In the system
 
 <figure>
  <img src="/assets/img/DART/didymos_archives.png" alt="didymos archives" 
- width="37%"
+ width="57%"
  align="center"/>
  <figcaption align="center">
   Figure 1B: Didymos actual images
  </figcaption>
    <img src="/assets/img/DART/didymos_actual.jpg" alt="didymos actual"
- width="33%"
+ width="43%"
  align="center"/>
  <figcaption align="center">
   Figure 1A: Didymos archive images
@@ -55,7 +46,7 @@ The DART spacecraft itself is quite a marble as well (Figure 2)! In 15-18 months
 
 <figure>
  <img src="/assets/img/DART/target.jpg" alt="DART spacecraft" 
- width="50%"
+ width="80%"
  align="center"/>
  <figcaption align="center">
   Figure 2: DART spacecraft
@@ -66,7 +57,7 @@ DART will make use of NASA's NEXT-C engine (Figure 3), an electric propulsion sy
 
 <figure>
  <img src="/assets/img/DART/nextc.jpg" alt="DART spacecraft NEXT-C Engine" 
- width="50%"
+ width="80%"
  align="center"/>
  <figcaption align="center">
   Figure 3: The NEXT-C Engine thrusting its ions!
@@ -79,7 +70,7 @@ The spacecraft will indeed be quite small in comparison (Figure 4) to the astero
 
 <figure>
  <img src="/assets/img/DART/scale.png" alt="DART Mission Scale (Comparison to known things)" 
- width="50%"
+ width="80%"
  align="center"/>
  <figcaption align="center">
   Figure 4: A comparison of the DART spacecraft, Didymos B and A to commonly known objects on Earth 
