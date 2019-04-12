@@ -76,7 +76,3 @@ The spacecraft will indeed be quite small in comparison (Figure 4) to the astero
   Figure 4: A comparison of the DART spacecraft, Didymos B and A to commonly known objects on Earth 
  </figcaption>
 </figure>
-
-If you made it all the way down to the end of this post, then I think it is only fair I share a little interesting fact about this mission; I am actually a Flight Software in the DART team! In the time that I have been part of the team I must say it is an extremely fun mission, and the fellow scientists and engineers working on the mission are a lot of fun to work with! 
-
-Everyday I work on this mission, I am more inspired. Can't wait to HIT THAT ASTEROID!
