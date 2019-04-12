@@ -21,19 +21,19 @@ The Double Asteroid Redirection Task (DART) is going to sound like a sci-fi movi
 
 As I type this post a team of engineers and scientists work out of the JHU Applied Physics Laboratory in the first mission funded out of NASA's Planetary Defense Coordination Office. 
 
-DART's is scheduled to be the first mission to test the capacity of using kinetic impact to veer an asteroid off of its current trayectory in the hopes that we have a better understanding of what to do in the case we ever found an Earth threatening asteroid in the cosmos. 
+DART is scheduled to be the first mission to test the capacity of using kinetic impact to veer an asteroid off of its current trayectory in the hopes that we have a better understanding of what to do in the case we ever found an Earth threatening asteroid in the cosmos. 
 
 The mission will target a binary system called Didymos (Figure 1). In the system Didymos B (otherwise known as Dydimoon) orbits Didymos (also known as... well... just Didymos). 
 
 <figure>
  <img src="/assets/img/DART/didymos_archives.png" alt="didymos archives" 
- width="50%"
+ width="55%"
  align="center"/>
  <figcaption align="center">
   Figure 1A: Didymos archive images
  </figcaption>
    <img src="/assets/img/DART/didymos_actual.jpg" alt="didymos actual"
- width="43%"
+ width="55%"
  align="center"/>
  <figcaption align="center">
   Figure 1B: Didymos actual images
@@ -46,7 +46,7 @@ The DART spacecraft itself is quite a marble as well (Figure 2)! In 15-18 months
 
 <figure>
  <img src="/assets/img/DART/target.jpg" alt="DART spacecraft" 
- width="50%"
+ width="55%"
  align="center"/>
  <figcaption align="center">
   Figure 2: DART spacecraft
@@ -57,7 +57,7 @@ DART will make use of NASA's NEXT-C engine (Figure 3), an electric propulsion sy
 
 <figure>
  <img src="/assets/img/DART/nextc.jpg" alt="DART spacecraft NEXT-C Engine" 
- width="50%"
+ width="55%"
  align="center"/>
  <figcaption align="center">
   Figure 3: The NEXT-C Engine thrusting its ions!
@@ -70,7 +70,7 @@ The spacecraft will indeed be quite small in comparison (Figure 4) to the astero
 
 <figure>
  <img src="/assets/img/DART/scale.png" alt="DART Mission Scale (Comparison to known things)" 
- width="50%"
+ width="55%"
  align="center"/>
  <figcaption align="center">
   Figure 4: A comparison of the DART spacecraft, Didymos B and A to commonly known objects on Earth 
