@@ -29,9 +29,9 @@ telescopes deployed at a variety of challenging high-altitude sites which includ
 Chile and Antarctica.
 
 The image released today is that of the black hole at the heart of the distant galaxy Messier 87. While the EHT has 
-been focused in capturing an image of the black hole at the center of our galaxy as well, the much larger size of the 
-black hole in the Virgo galaxy and the location of it in respect to our current location in our own galaxy, made the 
-Messier 87 black hole, "easier" to capture.
+been focused on capturing an image of the black hole at the center of our galaxy as well, the picture released was that
+of the black hole at the center of Messier 87. Messier 87's much larger size and tit's current location from our perspective,
+made it's black hole "easier" to capture.
 
 ![A black hole](/assets/img/BLACKHOLE/blackhole.jpg)<sub><sup>Figure 1: Image released at NSF conference by the EHT 
 team.</sup></sub>
@@ -55,7 +55,7 @@ What if everything we understood about space time was actually incorrect? Today'
 To better understand what we are looking at, I have decided to break the concept of a black hole down a little further.
 Imagine the center of the sphere shown in Figure 2 is our blackhole. It is important to note that only the center 
 point of the sphere represents the black hole (point of high mass), the rest of the black sphere/circle representes the event
-horizon. That is to say, the point at which not even light fired radially away from the black hole would not be able to
+horizon. That is to say, the point at which not even light fired radially away from the black hole would be able to
 escape, or even less, be detected by an outside spectator (us!). The radius of the event horizon (our black circle) is called the Schwarzchild Radius (rs).
 
 ![Diagram0](/assets/img/BLACKHOLE/0Diagram.png)<sub><sup>Figure 2: Diagram of black hole, shows the event horizon in black
