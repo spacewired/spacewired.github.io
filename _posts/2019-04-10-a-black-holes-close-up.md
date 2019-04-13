@@ -25,7 +25,7 @@ where scientists were scheduled to deliver one of the biggest, most impressive n
 see. The first image of a black whole. Today the effort and coordination of a planet-scale array of eight ground-based 
 radio telescopes has paid off. The Event Horizon Telescope (EHT) is said to be "an earth-sized telescope", because it 
 technically is! The telescope, in essence, is the successful connection of a worldwide network of eight pre-existing 
-telescopes deployed at a variety of challenging high-altitude sites which included, Hawai'i, Mexico, Arizona, Spanish, 
+telescopes deployed at a variety of challenging high-altitude sites which included, Hawai'i, Mexico, Arizona, Spain, 
 Chile and Antarctica.
 
 The image released today is that of the black hole at the heart of the distant galaxy, Messier 87. While the EHT has 

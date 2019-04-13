@@ -19,6 +19,10 @@ categories:
 
 # The Grand Unifying Theory
 #### Exploring the GUT
+
+#### UNDER CONSTRUCTION!
+
+
 I wanted to talk a little bit about the Grand Unified Theory. Recently I finished reading Stephen's Hawkins' "A Brief Histroy of Time" and in it he speaks of the Grand Theory of everything, so I thought it would be fun to write a little bit about it. 
 
 The Grand Unified Theory (GUT) refers to the idea that...
