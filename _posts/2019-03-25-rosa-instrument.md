@@ -26,15 +26,6 @@ The ROSA design uses high strain one-piece coposite slit-tube booms. The energy 
 
 ![NASA Image: ISS052E002871 - ROSA being tested in ISS](/assets/img/ROSA/ROSA_testing.jpg)<sub><sup>Figure 2: NASA Image: ISS052E002871 - ROSA being tested in ISS </sup></sub>
 
-<figure>
- <img src="/assets/img/ROSA/ROSA_testing.jpg" alt="NASA Image: ISS052E002871 - ROSA being tested in ISS" 
- width="60%"
- align="center"/>
-<figcaption align="center">
- NASA Image: ISS052E002871 - ROSA being tested in ISS
- </figcaption>
-</figure>
-
 The panels have successfully been tested at the international space station, and will now be used by the NASA's planetary defense department in the Double Asteroid Redirection Task (DART). The compact nature of the spacecraft aimed at hitting Dydimos provides the perfect opportunity to use ROSA. 
 
 For more details see [here](https://www.nasa.gov/mission_pages/station/research/experiments/2139.html).
