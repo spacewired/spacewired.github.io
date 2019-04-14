@@ -34,7 +34,7 @@ links:
     url: /blogs
   - title: Tags
     url: /tags
-  - title: AboutMe
+  - title: About
     url: /about
 
 # exclude my node related stuff
