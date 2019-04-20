@@ -39,10 +39,14 @@ aside h2{text-align:center;margin:0 0 .625rem;font-family:'Open Sans',sans-serif
   }
 
   a.logos:hover {
-    background:black;
+    background:gray;
     height:100%;
   }
   
+  a.others:hover {
+    background:gray;
+    height:100%;
+  }
   /* Page content */
   .content {
     padding: 16px;
