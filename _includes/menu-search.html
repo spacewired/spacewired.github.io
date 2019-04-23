@@ -10,9 +10,9 @@
     <a class="logos" href="{{ site.url }}/"><img src="/assets/img/spacewire-logo-white-letter.png" width="115"/></a>
     {% for link in site.links %}
     {% if link.external %}
-      <a class="others" href="{{ link.url }}">{{ link.title }}</a>
+      <a class="others" href="{{ link.url }}" style="font-size:20px">{{ link.title }}</a>
     {% else %}
-      <a class="others" href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>
+      <a class="others" href="{{ site.url }}{{ link.url }}" style="font-size:20px; font-family:courier new">{{ link.title }}</a>
     {% endif %}
     {% endfor %}
     <p id= "dosearch" class="dosearch"> <svg class="icon-menu icon-search"><use xlink:href="#icon-search"></use></svg></p>
