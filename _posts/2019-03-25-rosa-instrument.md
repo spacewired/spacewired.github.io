@@ -16,13 +16,13 @@ categories:
 
 # The Roll-Out Solar Array
 #### An amazing underdog
-Many of us already know about these underdogs, but do not completely appreciate how amazing they are, so I have decided to give you a quick couple of pointers on who they are and why they're special. 
+Many of us already know about these underdogs, but not all can completely appreciate how amazing they are, so I have decided to give you a few, quick pointers on who they are and why they’re special.
 
-Solar panels are an efficient way to power spacecraft and other satellites, however most are too large and too delicate to carry up to space without meeting special conditions. The Roll-Out Solar Array (ROSA) is NASA's innovative solution to this limitation.
+Solar panels are an efficient way to power spacecrafts and other satellites, however most are too large and too delicate to carry up to space without meeting special conditions. The Roll-Out Solar Array (ROSA) is NASA’s innovative solution to this limitation.
 
 ![ NASA Image: ISS052E002857 - ROSA close-up](/assets/img/ROSA/solar_arr.jpg)<sub><sup>Figure 1: NASA Image: ISS052E002857 - ROSA close-up </sup></sub>
 
-The ROSA design uses high strain one-piece coposite slit-tube booms. The energy stored is then used, once in space, to quickly deploy the solar panels once in space. 
+The ROSA design uses high-strain, composite, one-piece slit-tube booms. Once in space, the energy stored is then used to quickly deploy the solar panels.
 
 ![NASA Image: ISS052E002871 - ROSA being tested in ISS](/assets/img/ROSA/ROSA_testing.jpg)<sub><sup>Figure 2: NASA Image: ISS052E002871 - ROSA being tested in ISS </sup></sub>
 
