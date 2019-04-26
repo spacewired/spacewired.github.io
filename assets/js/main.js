@@ -7,6 +7,15 @@ var navbar = document.getElementById("navbar");
  // Get the offset position of the navbar
 var sticky = navbar.offsetTop;
 
+// window.addEventListener('scroll', StickTwitter)
+
+// function StickTwitter() {
+//     if (window.pageYOffset >=  document.getElementById("homepage-twitter").offsetTop) {
+//         document.getElementById("homepage-twitter").classList.add("stickytwitter")
+//     }else {
+//         document.getElementById("homepage-twitter").classList.remove("stickytwitter")
+//     }
+// }
  // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
 function scrollStick() {
   if (window.pageYOffset >= sticky) {
