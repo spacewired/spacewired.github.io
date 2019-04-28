@@ -40,8 +40,8 @@ JPL points out, that the recording was made on April 6th of 2019, the equivalent
 For more about the mission, you can check out the links below.
 
 ### Links:
-https://www.seis-insight.eu/en/public-2/the-insight-mission/landing-site
+<a href="https://www.seis-insight.eu/en/public-2/the-insight-mission/landing-site">https://www.seis-insight.eu/en/public-2/the-insight-mission/landing-site </a>
 
-https://mars.nasa.gov/insight/timeline/prelaunch/landing-site-selection/
+<a href="https://mars.nasa.gov/insight/timeline/prelaunch/landing-site-selection/">https://mars.nasa.gov/insight/timeline/prelaunch/landing-site-selection/</a>
 
-https://mars.nasa.gov/insight
+<a href="https://mars.nasa.gov/insight">https://mars.nasa.gov/insight</a>
