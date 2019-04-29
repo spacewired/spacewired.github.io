@@ -2,7 +2,7 @@
 layout: post
 title: "2019 Planetary Defense Conference"
 date: 2019-04-28 20:28:00
-image: '/assets/img/DART'
+image: '/assets/img/DART/target.jpg'
 background: '/assets/img/DART/target.jpg'
 description: 'Experts from around the world unite to discuss near-earth objects'
 tags:

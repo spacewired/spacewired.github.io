@@ -2,7 +2,7 @@
 layout: post
 title: "The Grand Unifying Theory"
 date: 2019-03-27 09:34:00
-image: '/assets/img/GUT'
+image: '/assets/img/GUT/gut.jpg'
 background: '/assets/img/GUT/gut.jpg'
 description: 'Exploring the Grand Unified Theory'
 tags:

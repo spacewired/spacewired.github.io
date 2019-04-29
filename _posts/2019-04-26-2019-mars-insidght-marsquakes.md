@@ -2,7 +2,7 @@
 layout: post
 title: "Mars InSight Detects Marsquakes"
 date: 2019-04-26 23:54:00
-image: '/assets/img/InSight'
+image: '/assets/img/InSight/InSight.png'
 background: '/assets/img/InSight/InSight.png'
 description: 'InSight finally detects seismic activity on Mars'
 tags:

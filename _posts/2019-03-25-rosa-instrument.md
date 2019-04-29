@@ -2,7 +2,7 @@
 layout: post
 title: "ROSA"
 date: 2019-03-25 06:34:00
-image: '/assets/img/ROSA'
+image: '/assets/img/ROSA/rosa2.png'
 background: '/assets/img/ROSA/rosa2.png'
 description: 'The Roll-Out Solar Array'
 tags:

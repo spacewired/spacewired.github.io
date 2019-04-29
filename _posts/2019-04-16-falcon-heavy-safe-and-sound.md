@@ -2,7 +2,7 @@
 layout: post
 title: "Falcon Heavy Sticks All Three Landings"
 date: 2019-04-16 12:00:00
-image: '/assets/img/FHLanding'
+image: '/assets/img/FHLanding/FHLanding.png'
 background: '/assets/img/FHLanding/FHLanding.png'
 description: 'SpaceX Flacon Heavy Lands Successfully But Loses Center Core'
 tags:
