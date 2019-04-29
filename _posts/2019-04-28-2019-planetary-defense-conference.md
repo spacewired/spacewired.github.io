@@ -19,15 +19,6 @@ categories:
 - Planetary Defense
 ---
 
-<head>
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:description" content="Experts from around the world unite to discuss near-earth objects" />
-  <meta name="twitter:title" content="2019 Planetary Defense Conference" />
-  <meta name="twitter:site" content="@space_wired" />
-  <meta name="twitter:image" content="https://spacewired.github.io/assets/img/DART/target.jpg" />
-  <meta name="twitter:creator" content="@space_wired" />
-</head>
-
 # Planetary Defense Conference
 #### Experts from around the world unite to discuss near-earth objects
 
