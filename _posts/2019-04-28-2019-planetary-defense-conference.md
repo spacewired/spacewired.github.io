@@ -19,6 +19,8 @@ categories:
 - Planetary Defense
 ---
 
+<meta name="twitter:image" content="/assets/img/DART/target.jpg">
+
 # Planetary Defense Conference
 #### Experts from around the world unite to discuss near-earth objects
 
