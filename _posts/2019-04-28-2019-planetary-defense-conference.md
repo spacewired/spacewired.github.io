@@ -23,7 +23,7 @@ categories:
 #### Experts from around the world unite to discuss near-earth objects
 
 
-Tomorrow will be the first day of the 2019 IAA Planetary Defense Conference. The conference will take place in what Washington DC area in the USA this year, and will last the entire week. 
+Tomorrow will be the first day of the 2019 IAA Planetary Defense Conference. The conference will take place in the Washington DC area in the USA this year, and will last the entire week. 
 
 This year's conference is the 6th global conference, which takes place every two years. In it, experts from all over the world meet in an effort to share new findings related to near earth objects (NEOs) and other planetary defense topics. 
 
