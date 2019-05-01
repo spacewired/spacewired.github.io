@@ -6,7 +6,7 @@ image: '/assets/img/DART/target.jpg'
 background: '/assets/img/DART/target.jpg'
 description: 'Experts from around the world unite to discuss near-earth objects'
 level: '/assets/img/technical-level/0.png'
-ert: ' 3min read'
+ert: ' 3 min read'
 tags:
 - asteroid
 - flight

@@ -6,7 +6,7 @@ image: '/assets/img/InSight/InSight.png'
 background: '/assets/img/InSight/InSight.png'
 description: 'InSight finally detects seismic activity on Mars'
 level: '/assets/img/technical-level/2.png'
-ert: ' 5min read'
+ert: ' 5 min read'
 tags:
 - Mars
 - InSight

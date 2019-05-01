@@ -6,7 +6,7 @@ image: '/assets/img/first-three-2019/israel.jpg'
 background: '/assets/img/first-three-2019/israel.jpg'
 description: '"Big Dreams for A Small Country"'
 level: '/assets/img/technical-level/1.png'
-ert: ' 8min read'
+ert: ' 8 min read'
 tags:
 - private industry
 - spaceIL
