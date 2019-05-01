@@ -5,6 +5,8 @@ date: 2019-04-26 23:54:00
 image: '/assets/img/InSight/InSight.png'
 background: '/assets/img/InSight/InSight.png'
 description: 'InSight finally detects seismic activity on Mars'
+level: '/assets/img/technical-level/2.png'
+ert: ' 5min read'
 tags:
 - Mars
 - InSight

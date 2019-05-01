@@ -19,6 +19,8 @@ layout: default
                 </a>
                 <div class="content">
                     <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="post-title" itemprop="name">{{ post.title }}</h2></a>
+                    <p class="level"><img src={{ post.level }} alt="techincal level" height=30px></p>
+                    <p class="estimated-read-time"><img src="/assets/img/clock.png" alt="clock" height=12px>{{ post.ert }}</p>
                     <a href="{{ post.url | prepend: site.baseurl }}"><img src="{{ post.background }}" width="100%" ></a>
                     <p class="description">
                         {{ post.content | strip_html | truncatewords:40 }}
@@ -53,6 +55,7 @@ layout: default
                 <div class="content">
                     <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="post-title" itemprop="name">{{ post.title }}</h2></a>
                     <a href="{{ post.url | prepend: site.baseurl }}"><img src="{{ post.background }}" width="100%" ></a>
+                    <p class="estimated-read-time"><a align="left"><img src="/assets/img/clock.png" alt="clock" height=12px>{{ post.ert }}</a><a><img src={{ post.level }} alt="techincal level" height=30px align="right"></a></p>
                     <p class="description">
                         {{ post.content | strip_html | truncatewords:40 }}
                         <a href="{{ post.url | prepend: site.baseurl }}" class="link">Read more about {{post.title}}</a>

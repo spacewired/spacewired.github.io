@@ -5,6 +5,8 @@ date: 2019-03-27 09:34:00
 image: '/assets/img/GUT/gut.jpg'
 background: '/assets/img/GUT/gut.jpg'
 description: 'Exploring the Grand Unified Theory'
+level: '/assets/img/technical-level/0.png'
+ert: ' 1min read'
 tags:
 - physics
 - gut

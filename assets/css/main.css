@@ -129,3 +129,13 @@ footer a:hover{color:rgb(0, 0, 0)}
   .sticky + .content {
     padding-top: 60px;
   }
+
+  .level {
+    color: gray;
+    padding: 0px
+  }
+
+  .estimated-read-time {
+    color: gray;
+    padding: 0px
+  }

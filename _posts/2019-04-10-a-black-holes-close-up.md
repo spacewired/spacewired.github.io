@@ -5,6 +5,8 @@ date: 2019-04-10 09:31:00
 image: '/assets/img/BLACKHOLE/blackhole.jpg'
 background: '/assets/img/BLACKHOLE/blackhole.jpg'
 description: 'The Event Horizon Telescope Team releases first image of a black hole'
+level: '/assets/img/technical-level/3.png'
+ert: '15 min read'
 tags:
 - physics
 - black
