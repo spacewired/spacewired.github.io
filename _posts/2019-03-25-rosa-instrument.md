@@ -5,7 +5,7 @@ date: 2019-03-25 06:34:00
 image: '/assets/img/ROSA/rosa2.png'
 background: '/assets/img/ROSA/rosa2.png'
 description: 'The Roll-Out Solar Array'
-level: '/assets/img/technical-level/1.png'
+level: '/assets/img/technical-level/2.png'
 ert: ' 2 min read'
 tags:
 - asteroid
