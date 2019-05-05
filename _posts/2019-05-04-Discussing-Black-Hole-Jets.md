@@ -36,7 +36,7 @@ As of right now, particle physicists have not been able to break down electrons,
 
 I mentioned before that there are six categories for quarks, that even number is not a coincidence, quarks are never found on their own, they are always in pairs, top and bottom, up and down, and strange and charm. Groups of quarks are called hadrons (Check Figure 1), which are held together by a force called a gluon. You can think of the force pulling these hadrons together as a string, the more you pull the quarks apart the tenser the string grows. If you pull on the quarks and let go of them, the tension on the string quickly pulls them back together, however if you put in enough energy, you could pull the quarks until that string breaks at which point it is more effective to use that energy to create new quarks than it is to pull the old quark partners together. These new quarks quickly create new hadrons which are ejected in a stream that we call a jet. There you have it! We have now touched every word on the title of this post… well except the black hole but we will get to it. 
 
-![quark gluon diagram](/assets/img/BLACKHOLE/quark-gluon.png)<sub><sup>Figure 1: Diagram of quarks gluons and their respective sate as a function of temperature and baryon density. In green (LHC) is the range covered by the Large Hadron Collider. </sup></sub>
+![quark gluon diagram](/assets/img/BLACKHOLE/quark-gluon.png)<sub><sup>Figure 1: Phase diagram of QCD matter. Diagram shows quarks gluons and their respective sate as a function of temperature and baryon density. In green (LHC) is the range covered by the Large Hadron Collider. Credit: BNL/RHIC.</sup></sub>
 
 Here on Earth we can create these jets, in hadron colliders, where scientists speed up protons quickly enough to make their impact amount to enough energy to create another 8000 protons (I’ve included a Technical Section in case you want to get to the nitty gritty of how this works, you can find it at the end of the post, you can jump there now if you wish). The collision generated enough energy to break apart the hadrons and create jets in the way we mentioned before. The question then becomes can this same concept be extrapolated to the jets we see coming from black holes? 
 
@@ -44,7 +44,7 @@ I’m not quite sure if this is a theory yet, but this is what makes sense to me
 
 We know black holes have enough mass to pull in anything, including light itself. Check out our previous post on black holes for a better break down. This strong gravitational pull means that even hadrons will be pulled in by the black hole as they enter the event horizon. As we know from our previous blog post discussion, as things approach the singularity of a black hole they gain higher velocities, meaning that in the case of a hadron, the quarks closer to the center of the black hole will be pulled at a greater velocity than those on the outer side. 
 
-![Black hole jet](/assets/img/BLACKHOLE/description-jet.jpg)<sub><sup>Figure 2: Black hole components of jet formed by accretion disk.</sup></sub>
+![Black hole jet](/assets/img/BLACKHOLE/description-jet.jpg)<sub><sup>Figure 2: Black hole components of jet formed by accretion disk.  Credit: NASA, ESA, and A. Feild (STScI).</sup></sub>
 
 This difference in velocity will tear the quarks apart with enough energy to then create a snap in the string (gluon) we talked about before. As this happens, some jets are created in the direction opposite to the black hole, making it look as if the black hole was ejecting matter. On Figure 2 you can see the different parts of the black hole, and the hot plasma in the middle of the jet, could be composed of this gluon-quark plasma.
 
@@ -59,3 +59,5 @@ In a particle accelerator like the LHC, the speed of the particle approaches the
 ### References:
 
 "Most Wanted Particle" by Jon Butterworth
+
+Background picture curtosy of SFN and the Event Horizon Telescope team.
