@@ -6,7 +6,7 @@ image: '/assets/img/ROSA/rosa2.png'
 background: '/assets/img/ROSA/rosa2.png'
 description: 'The Roll-Out Solar Array'
 level: '/assets/img/technical-level/2.png'
-ert: ' 2 min read'
+ert: ' 1 min read'
 tags:
 - asteroid
 - dart

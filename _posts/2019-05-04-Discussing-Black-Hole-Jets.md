@@ -6,7 +6,7 @@ image: '/assets/img/BLACKHOLE/blk-hole-jet.jpg'
 background: '/assets/img/BLACKHOLE/blk-hole-jet.jpg'
 description: 'Discussing black hole jets'
 level: '/assets/img/technical-level/4.png'
-ert: ' 11 min read'
+ert: ' 6 min read'
 tags:
 - physics
 - black
@@ -38,7 +38,7 @@ I mentioned before that there are six categories for quarks, that even number is
 
 ![quark gluon diagram](/assets/img/BLACKHOLE/quark-gluon.png)<sub><sup>Figure 1: Diagram of quarks gluons and their respective sate as a function of temperature and baryon density. In green (LHC) is the range covered by the Large Hadron Collider. </sup></sub>
 
-Here on Earth we can create these jets, in hadron colliders, where scientists speed up protons quickly enough to make their impact amount to enough energy to create another 8000 protons (I’ve included a Technical Section in case you want to get to the nitty gritty of how this works, you can find it at the end of the post.). The collision generated enough energy to break apart the hadrons and create jets in the way we mentioned before. The question then becomes can this same concept be extrapolated to the jets we see coming from black holes? 
+Here on Earth we can create these jets, in hadron colliders, where scientists speed up protons quickly enough to make their impact amount to enough energy to create another 8000 protons (I’ve included a Technical Section in case you want to get to the nitty gritty of how this works, you can find it at the end of the post, you can jump there now if you wish). The collision generated enough energy to break apart the hadrons and create jets in the way we mentioned before. The question then becomes can this same concept be extrapolated to the jets we see coming from black holes? 
 
 I’m not quite sure if this is a theory yet, but this is what makes sense to me when I read about particle physics and keep black holes in mind, let me know what you think or if I am totally wrong in the comments section below. 
 
@@ -52,10 +52,10 @@ What do you think? I will definitely continue to read more about this and update
 
 ## Technical Section:
 
-Einstein's energy equation is VERY famous as: E=mc2 but did you know that in reality there is one missing variable in there? Einstein's Theory of Relativity states actually considers the speed of a particle as a variable defined as gamma (y). Gamma is essentiall defined as: 
+Einstein's energy equation is VERY famous as: E = mc<sup>2</sup> but did you know that in reality there is one missing variable in there? Einstein's Theory of Relativity actually considers the speed of a particle as a variable defined as gamma (&#947;). Meaning the equation actually looks something more like:  E = &#947;mc<sup>2</sup>. Gamma is essentially defined as 	&#947;<sup>2</sup> = 1/(1-v<sup>2</sup>/c<sup>2</sup>), where vs is the speed of the particle and c is the speed of light. You can see that as v gets closer to the speed of light c, &#947; approaches 1/0 which is infinite. In the case that v is very small, almost 0, then &#947; = 1 and the famous equation emerges as E = mc<sup>2</sup>
 
-HOW TO ADD MATH TO MARKDOWN?
+In a particle accelerator like the LHC, the speed of the particle approaches the speed of light, which means gamma cannot be overlooked. This means that with a large enough value of &#947; we can create enough Energy to produce more of the particle in the event of a collision. Consider that a proton in the LHC is travelling with an energy of 4000 GeV, meaning its kinetic energy is more than 400 times bigger than its rest mass energy. If you collide that proton with another being spun up in the opposite direction, you have a net energy of 8000GeV, which essentially means you can make about 8000 protons with the energy put into the particle's speed; that's where my number above comes from. 
 
-## References:
+### References:
 
 "Most Wanted Particle" by Jon Butterworth

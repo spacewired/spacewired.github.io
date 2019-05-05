@@ -6,7 +6,7 @@ image: '/assets/img/FHLanding/FHLanding.png'
 background: '/assets/img/FHLanding/FHLanding.png'
 description: 'SpaceX Flacon Heavy Lands Successfully But Loses Center Core'
 level: '/assets/img/technical-level/2.png'
-ert: ' 6 min read'
+ert: ' 3 min read'
 tags:
 - flight
 - spacex

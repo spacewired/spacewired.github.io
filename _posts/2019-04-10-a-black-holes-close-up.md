@@ -6,7 +6,7 @@ image: '/assets/img/BLACKHOLE/blackhole.jpg'
 background: '/assets/img/BLACKHOLE/blackhole.jpg'
 description: 'The Event Horizon Telescope Team releases first image of a black hole'
 level: '/assets/img/technical-level/3.png'
-ert: '15 min read'
+ert: '10 min read'
 tags:
 - physics
 - black
@@ -75,7 +75,7 @@ I’m glad I got to see this moment, and I am excited to be part of a generation
 ![A black hole2](/assets/img/BLACKHOLE/blackhole-nasa.jpg)<sub><sup>Figure 5: A close-up of the core of the M87 galaxy
 with a black hole in its center. Photo Credit: NASA/CXC/Villanova University/J. Neilsen </sup></sub>
 
-### Links:
+### References:
 <a href="https://eventhorizontelescope.org/">https://eventhorizontelescope.org/<a>
 
 <a href="https://www.nsf.gov/news/news_summ.jsp?cntn_id=298276">https://www.nsf.gov/news/news_summ.jsp?cntn_id=298276<a>

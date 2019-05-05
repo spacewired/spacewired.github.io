@@ -6,7 +6,7 @@ image: '/assets/img/InSight/InSight.png'
 background: '/assets/img/InSight/InSight.png'
 description: 'InSight finally detects seismic activity on Mars'
 level: '/assets/img/technical-level/2.png'
-ert: ' 5 min read'
+ert: ' 3.5 min read'
 tags:
 - Mars
 - InSight
@@ -41,7 +41,7 @@ JPL points out, that the recording was made on April 6th of 2019, the equivalent
 
 For more about the mission, you can check out the links below.
 
-### Links:
+### References:
 <a href="https://www.seis-insight.eu/en/public-2/the-insight-mission/landing-site">https://www.seis-insight.eu/en/public-2/the-insight-mission/landing-site </a>
 
 <a href="https://mars.nasa.gov/insight/timeline/prelaunch/landing-site-selection/">https://mars.nasa.gov/insight/timeline/prelaunch/landing-site-selection/</a>
