@@ -60,4 +60,4 @@ In a particle accelerator like the LHC, the speed of the particle approaches the
 
 "Most Wanted Particle" by Jon Butterworth
 
-Background picture curtosy of SFN and the Event Horizon Telescope team.
+Background picture curtesy of SFN and the Event Horizon Telescope team.
