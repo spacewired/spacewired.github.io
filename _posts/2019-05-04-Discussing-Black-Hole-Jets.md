@@ -5,8 +5,8 @@ date: 2019-05-04 13:25:00
 image: '/assets/img/BLACKHOLE/blk-hole-jet.jpg'
 background: '/assets/img/BLACKHOLE/blk-hole-jet.jpg'
 description: 'Discussing black hole jets'
-level: '/assets/img/technical-level/4.png'
-ert: ' 6 min read'
+level: '/assets/img/technical-level/3.png'
+ert: ' 8 min read'
 tags:
 - physics
 - black
