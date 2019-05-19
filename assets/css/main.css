@@ -1808,6 +1808,15 @@ a.others:hover {
   margin: auto;
 }
 
+@media only screen and (max-width:37.5rem) {
+	#container {
+    width: 100%;
+    padding-left:0
+  }
+  #topBtn img{
+    width:40px
+  }
+
 #topBtn {
   position: fixed;
   bottom: 20px;
