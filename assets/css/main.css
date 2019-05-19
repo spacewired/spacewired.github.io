@@ -1808,13 +1808,6 @@ a.others:hover {
   margin: auto;
 }
 
-@media only screen and (max-width:37.5rem) {
-	#container {
-    width: 100%;
-    padding-left:0
-  }
-}
-
 #topBtn {
   position: fixed;
   bottom: 20px;
@@ -1830,4 +1823,11 @@ a.others:hover {
 
 #topBtn:hover {
   background-color: #555;
+}
+
+@media only screen and (max-width:37.5rem) {
+	#container {
+    width: 100%;
+    padding-left:0
+  }
 }
